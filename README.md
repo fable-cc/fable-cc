@@ -1,10 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=700&size=32&duration=3000&pause=1000&color=F5E6D3&center=true&vCenter=true&repeat=false&width=600&lines=%E6%99%AF%E4%B8%80+%C2%B7+%E5%AF%93%E8%A8%80%E5%9F%8E%E5%A0%A1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=700&size=32&duration=3000&pause=1000&color=2D2D2D&center=true&vCenter=true&repeat=false&width=600&lines=%E6%99%AF%E4%B8%80+%C2%B7+%E5%AF%93%E8%A8%80%E5%9F%8E%E5%A0%A1" />
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=700&size=32&duration=3000&pause=1000&color=F5E6D3&center=true&vCenter=true&repeat=false&width=600&lines=%E6%99%AF%E4%B8%80+%C2%B7+%E5%AF%93%E8%A8%80%E5%9F%8E%E5%A0%A1" alt="景一 · 寓言城堡" />
-  </picture>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=700&size=32&duration=3000&pause=1000&color=F5E6D3&center=true&vCenter=true&repeat=false&width=600&lines=%E6%99%AF%E4%B8%80+%C2%B7+%E5%AF%93%E8%A8%80%E5%9F%8E%E5%A0%A1" alt="景一 · 寓言城堡" />
+</h1>
 
 <p align="center">
   <b>不是搬运工，是冶炼者。</b><br>
