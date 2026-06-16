@@ -11,6 +11,9 @@
   <a href="https://fable-cc.github.io/fable-castle"><img src="https://img.shields.io/badge/寓言城堡-在线访问-8B5E3C?style=for-the-badge&logo=jekyll&logoColor=white" alt="寓言城堡"/></a>
   <a href="https://github.com/fable-cc"><img src="https://img.shields.io/badge/GitHub-知识开源-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://github.com/fable-cc/fable-castle/discussions"><img src="https://img.shields.io/badge/讨论区-一起冶炼-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="讨论"/></a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fable-cc&show_icons=true&theme=dark&title_color=C9A96E&icon_color=C9A96E&text_color=E8D5B7&bg_color=0d1117&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fable-cc&layout=compact&theme=dark&title_color=C9A96E&text_color=E8D5B7&bg_color=0d1117&hide_border=true" height="160" />
 </p>
 
 ---
