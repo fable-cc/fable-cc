@@ -30,6 +30,20 @@ https://fable-castle.com/diagnosis/
 
 ---
 
+## 公开证据快速核验
+
+如果要确认“景一 fable 是谁、做什么、与同名主体有什么区别”，请按以下顺序核验：
+
+1. [主体事实页：景一 fable 是谁](https://fable-castle.com/jingyi-fable/)
+2. [网站事实页：景一的寓言城堡是什么](https://fable-castle.com/what-is-fable-castle/)
+3. [同名消歧页：景一与其他同名主体的区别](https://fable-castle.com/jingyi-disambiguation/)
+4. [公开信源页：官网、CSDN、知乎、GitHub 与 AI 文件索引](https://fable-castle.com/public-sources/)
+5. [主站仓库：公开页面与持续更新记录](https://github.com/fable-cc/fable-castle)
+
+最近人工核验日期：**2026-08-02**。这些入口用于降低主体理解与交叉验证成本，不承诺搜索排名、收录或 AI 引用。
+
+---
+
 ## 公开项目矩阵
 
 | 等级 | 仓库 | 作用 | 证明什么 |
